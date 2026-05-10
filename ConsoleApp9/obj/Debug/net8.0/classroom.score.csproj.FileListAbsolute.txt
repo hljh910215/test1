@@ -1,0 +1,14 @@
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\bin\Debug\net8.0\classroom.score.exe
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\bin\Debug\net8.0\classroom.score.deps.json
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\bin\Debug\net8.0\classroom.score.runtimeconfig.json
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\bin\Debug\net8.0\classroom.score.dll
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\bin\Debug\net8.0\classroom.score.pdb
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\classroom.score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\classroom.score.AssemblyInfoInputs.cache
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\classroom.score.AssemblyInfo.cs
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\classroom.score.csproj.CoreCompileInputs.cache
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\classroom.score.dll
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\refint\classroom.score.dll
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\classroom.score.pdb
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\classroom.score.genruntimeconfig.cache
+C:\Users\ispan\Documents\ProJects\LeaveSystem\Code\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\ref\classroom.score.dll
